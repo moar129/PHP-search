@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>søge felt</title>
+</head>
+<body>
+	<form method="post" action="mysearch.php">
+		<label>søge felt</label>
+		<input type="text" name="searchAll">
+		<button type="submit">Søg</button>
+	</form>
+</body>
+</html>
